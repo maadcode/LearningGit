@@ -1,2 +1,3 @@
 # Comandos Git
 
+git init
