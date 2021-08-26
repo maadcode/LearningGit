@@ -1,4 +1,4 @@
-# Comandos Git
+# Comandos básicos de Git
 
 **git init** - Para iniciar git en un proyecto y convertirlo en Working Directory.
 
@@ -52,3 +52,11 @@
 
 **git merge [rama]** - Para combinar la rama actual con la rama que se pasa como parámetro en el comando.
 
+-----------------------------
+
+## Pasos para contribuir a otro proyecto open source
+
+- Paso 1. Hacer fork del repositorio que se desea colaborar
+- Paso 2. Clonar el repositorio forkeado
+- Paso 3. Subir cambios al Repositorio Remoto forkeado
+- Pase 4. Hacer un pull request al repositorio original
