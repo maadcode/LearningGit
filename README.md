@@ -22,6 +22,10 @@
 
 **git log** - Para ver historial de commits.
 
+**git reset --hard HEAD~1** - Para eliminar el último commit perdiendo cambios.
+
+**git reset --soft HEAD~1** - Para eliminar el último commit sin perder los cambios.
+
 -----------------------------
 
 **git remote add origin [url]** - Conectar Local Repository con un Remote Repository.
