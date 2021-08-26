@@ -48,7 +48,7 @@
 
 **git checkout [rama]** - Para cambiar a otra rama.
 
-**git switch -c [id del commit]** - Para crear una rama con el id del commit.
+**git switch -c [rama]** - Para crear y moverse a una nueva rama.
 
 **git merge [rama]** - Para combinar la rama actual con la rama que se pasa como parámetro en el comando.
 
