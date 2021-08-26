@@ -48,4 +48,3 @@
 
 **git merge [rama]** - Para combinar la rama actual con la rama que se pasa como parámetro en el comando.
 
-<!-- Comentario -->
